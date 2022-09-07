@@ -1,1 +1,1 @@
-0. Create a script that creates an alias "\n" 
+0. Create a script that creates an alias
